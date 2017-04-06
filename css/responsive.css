@@ -1,0 +1,42 @@
+@media screen and (min-width: 500px) {
+  
+  #primary {
+    width: 50%;
+    float: right;
+  }
+  
+  iframe {
+    width: 40%;
+    float: left;
+  }
+  
+  #navigation li {
+    width: 25.33333%
+  }
+  
+  #navigation li:nth-child(4n) {
+    clear: left;
+  }
+}
+
+@media screen and (min-width: 480px) {
+  
+  #logo {
+    float: left;
+    margin-left: 1.5%;
+    text-align: left;
+    width: 25%
+  }
+  
+  header {
+    border-bottom: 5px;
+    margin-bottom: 55px:
+  }
+  
+  nav{
+    background: none;
+    float: right;
+    font-size: 1.15em;
+    width: 45%;
+  }
+}

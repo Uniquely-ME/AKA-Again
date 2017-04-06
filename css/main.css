@@ -1,0 +1,187 @@
+a {
+  text-decoration: none;
+  text-align: center;
+}
+
+header {
+  background-color: #CAECCF;
+  background-image:linear-gradient(#76C4AE, #CABD80)
+}
+
+html {
+  background-color: #9fc2ba;
+}
+
+/******************** 
+Header
+********************/
+
+#logo {
+  text-align: center;
+  margin: 0; 
+}
+
+header h1 {
+  color: white;
+  text-align: center;
+}
+
+header {
+  float: left;
+  margin: 0 0 30px 0;
+  padding: 5px 0 0 0;
+  width: 100%;
+}
+
+h1 {
+  margin: 15px 0;
+  font-size: 4em;
+  font-weight: normal;
+  line-height: 0.8em;
+  text-shadow: 2px 5px 3px #fff;
+}
+
+#icon {
+  width: 13%;
+  height: 15%;
+  float: left;
+  text-align: center;
+  margin: 13px;
+  padding: 10px;
+  max-width: 13%;
+  max-height: 15%
+}
+
+
+
+/******************** 
+Navigation
+********************/
+
+nav {
+  text-align: center;
+  padding: 10px 0;
+  margin: 20px 0 0;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0 10px;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  padding: 1px 6px;
+  border-right: solid 3px white;
+  word-spacing: 2px;
+  text-align: center;
+}
+
+nav a {
+  font-weight: 800;
+  padding: 15px 10px;
+}
+
+li a {
+  color: WHITE;
+}
+
+ nav li a:hover {
+  background-color: #DDB0A0;
+  color: white;
+}
+
+.navigation {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+
+
+/******************** 
+Page: Contact
+********************/
+
+.contact-info {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 1.5em;
+}
+
+.contact-info a {
+  display: block;
+  min-height: 20px;
+  background-repeat: no-repeat;
+  background-size: 20px 20px;
+  padding: 0 0 0 30px;
+  margin: 0 0 10px;
+}
+
+.contact-info li.phone a {
+  background-image: url('../img/telephone.png')
+}
+
+
+
+/******************** 
+Footer
+********************/
+
+footer {
+  font-size: 1.75em;
+  text-align: center;
+  clear: both;
+  padding-top: 50px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+
+
+/******************** 
+Page: Services
+********************/
+
+.womanhairstyles {
+  float: ;
+}
+
+table {
+  border-style: double;
+}
+
+tr {
+  border-bottom-style: solid;
+}
+
+
+
+/******************** 
+Page: Home
+********************/
+
+#wrapper {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 5%;
+}
+
+#gallery li {
+  float: left;
+  width: 45%;
+  margin: 3%;
+}
+
+#gallery li a {
+  text-decoration: none;
+}
+
+.social-icon {
+  width: 50px;
+  height: 45px;
+}
