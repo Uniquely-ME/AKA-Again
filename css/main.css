@@ -19,6 +19,7 @@ Header
 #logo {
   text-align: center;
   margin: 0; 
+  text-decoration: none;
 }
 
 header h1 {
@@ -62,12 +63,14 @@ nav {
   text-align: center;
   padding: 10px 0;
   margin: 20px 0 0;
+  
 }
 
 nav ul {
   list-style: none;
   margin: 0 10px;
   padding: 0;
+  text-decoration: none;
 }
 
 nav li {
@@ -76,15 +79,18 @@ nav li {
   border-right: solid 3px white;
   word-spacing: 2px;
   text-align: center;
+  text-decoration: none;
 }
 
 nav a {
   font-weight: 800;
   padding: 15px 10px;
+  text-decoration: none;
 }
 
 li a {
   color: WHITE;
+  text-decoration: none;
 }
 
  nav li a:hover {
@@ -95,6 +101,7 @@ li a {
 .navigation {
   margin-top: 5px;
   margin-bottom: 5px;
+
 }
 
 
@@ -108,6 +115,7 @@ Page: Contact
   padding: 0;
   margin: 0;
   font-size: 1.5em;
+  text-decoration: none;
 }
 
 .contact-info a {
@@ -117,10 +125,12 @@ Page: Contact
   background-size: 20px 20px;
   padding: 0 0 0 30px;
   margin: 0 0 10px;
+  text-decoration: none;
 }
 
 .contact-info li.phone a {
   background-image: url('../img/telephone.png')
+  
 }
 
 
@@ -139,6 +149,7 @@ footer {
 img {
   width: 100%;
   height: auto;
+  text-decoration: none;
 }
 
 
@@ -153,6 +164,7 @@ Page: Services
 
 table {
   border-style: double;
+  text-decoration: none;
 }
 
 tr {
