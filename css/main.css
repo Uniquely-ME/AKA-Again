@@ -175,6 +175,7 @@ Page: Home
   float: left;
   width: 45%;
   margin: 3%;
+  text-decoration: none;
 }
 
 #gallery li a {
@@ -184,6 +185,8 @@ Page: Home
 .social-icon {
   width: 50px;
   height: 45px;
+  text-decoration: none;
+  
 }
 
 /********************
@@ -198,10 +201,12 @@ h1 {
 ol {
     background: #F1D79C;
     padding: 20px;
+    
 }
 
 ol li {
     background: #FAF2BF;
     padding: 5px;
     margin-left: 35px;
+   
 }
