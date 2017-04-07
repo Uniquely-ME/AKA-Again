@@ -25,6 +25,7 @@ Header
 header h1 {
   color: white;
   text-align: center;
+  text-decoration: none;
 }
 
 header {
@@ -32,6 +33,7 @@ header {
   margin: 0 0 30px 0;
   padding: 5px 0 0 0;
   width: 100%;
+  text-decoration: none;
 }
 
 h1 {
@@ -40,6 +42,7 @@ h1 {
   font-weight: normal;
   line-height: 0.8em;
   text-shadow: 2px 5px 3px #fff;
+  text-decoration: none;
 }
 
 #icon {
@@ -63,6 +66,7 @@ nav {
   text-align: center;
   padding: 10px 0;
   margin: 20px 0 0;
+  text-decoration: none;
   
 }
 
@@ -96,11 +100,13 @@ li a {
  nav li a:hover {
   background-color: #DDB0A0;
   color: white;
+  text-decoration: none;
 }
 
 .navigation {
   margin-top: 5px;
   margin-bottom: 5px;
+  text-decoration: none;
 
 }
 
@@ -130,6 +136,7 @@ Page: Contact
 
 .contact-info li.phone a {
   background-image: url('../img/telephone.png')
+ 
   
 }
 
@@ -144,6 +151,7 @@ footer {
   text-align: center;
   clear: both;
   padding-top: 50px;
+  text-decoration: none;
 }
 
 img {
@@ -160,6 +168,7 @@ Page: Services
 
 .womanhairstyles {
   float: ;
+  text-decoration: none;
 }
 
 table {
@@ -169,6 +178,7 @@ table {
 
 tr {
   border-bottom-style: solid;
+  text-decoration: none;
 }
 
 
@@ -181,6 +191,7 @@ Page: Home
   max-width: 940px;
   margin: 0 auto;
   padding: 0 5%;
+  text-decoration: none;
 }
 
 #gallery li {
@@ -208,11 +219,13 @@ Page: Our Staff
 h1 {
   font-size: 6em;
   text-align: center;
+  text-decoration: none;
 }
 
 ol {
     background: #F1D79C;
     padding: 20px;
+    text-decoration: none;
     
 }
 
@@ -220,5 +233,6 @@ ol li {
     background: #FAF2BF;
     padding: 5px;
     margin-left: 35px;
+    text-decoration: none;
    
 }
