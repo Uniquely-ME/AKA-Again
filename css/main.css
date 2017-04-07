@@ -185,3 +185,23 @@ Page: Home
   width: 50px;
   height: 45px;
 }
+
+/********************
+Page: Our Staff
+********************/
+
+h1 {
+  font-size: 6em;
+  text-align: center;
+}
+
+ol {
+    background: #F1D79C;
+    padding: 20px;
+}
+
+ol li {
+    background: #FAF2BF;
+    padding: 5px;
+    margin-left: 35px;
+}
